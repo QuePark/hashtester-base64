@@ -1,1 +1,1 @@
-# Hash Tester by SHA256
+# Hash Tester by BASE64
